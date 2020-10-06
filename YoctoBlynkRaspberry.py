@@ -1,16 +1,6 @@
 # Auteur    : Patrick Pinard
 # Date      : 4.10.2020
-# Objet     : interface Yoctopuce et Blynk avec APP IOS 
-# Source    : \Dropbox\Yoctopuce\Yoctobox.py
-# Version   : 1
-# Statut    : fonctionnel
-
-# -*- coding: utf-8 -*-
-#   Clavier MAC :      
-#  {} = "alt/option" + "(" ou ")"
-#  [] = "alt/option" + "5" ou "6"
-#   ~  = "alt/option" + n    
-#   \  = Alt + Maj + / 
+# Objet     : interface Yoctopuce et Blynk sous IOS 
 
 
 import logging
@@ -27,7 +17,7 @@ path = "/home/pi/YoctoBlynk"
 # tune console logging
 
 
-BLYNK_AUTH = 'rcB91tMoGqFLKR7vZ1ePrDIqn0izH59W'
+BLYNK_AUTH = 'blynk key'
 blynk = blynklib.Blynk(BLYNK_AUTH)
 
 logging.basicConfig(filename='YoctoBox.log', filemode='wa', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
