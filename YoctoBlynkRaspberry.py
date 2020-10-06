@@ -1,7 +1,7 @@
 # Auteur    : Patrick Pinard
 # Date      : 4.10.2020
 # Objet     : interface Yoctopuce et Blynk sous IOS 
-
+# -*- coding: utf-8 -*-
 
 import logging
 import blynklib
