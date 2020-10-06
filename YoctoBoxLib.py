@@ -4,11 +4,6 @@
 # Version   : 1
 # -*- coding: utf-8 -*-
 
-#   Clavier MAC :      
-#  {} = "alt/option" + "(" ou ")"
-#  [] = "alt/option" + "5" ou "6"
-#   ~  = "alt/option" + n    
-#   \  = Alt + Maj + / 
   
 from yoctopuce.yocto_api import *
 from yoctopuce.yocto_humidity import *
