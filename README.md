@@ -1,7 +1,13 @@
 # YoctoBox
 # Modules Yoctopuce pilotés par APP Blynk sur IOS au travers d'une gateway Raspberry Pi 4
 
-Interface entre module Yoctopuce Wifi avec Display, carte 4 relais 240V et senseur de température, humidité et pression atmosphérique. Gateway au travers du Raspberry Pi 4 qui héberge le code python. Application Blynk sur SmartPhone IOS
+Ce projet consiste à créer une APP avec Blynk permettant de piloter à distance un boitier (YoctoBox) comprenant des relais, une affichage et une sonde de température, pression et humidité.
+
+Il est constitué de modules Yoctopuce insérés dans un boitier plastique. Comme Yoctopuce n'offre pas de compatibilité avec Blynk pour un contrôle complet, une gateway est utilisée avec un Raspberry Pi 4. 
+
+La YoctoBox intègre un relai pour un radiateur qui peut être enclenché et déclenché par un thermostat sur l'APP Blynk (pin V8 et V9). 
+
+Utilisation de Yoctopuce Wifi avec yocto-display (display OLED de 128x32 pixels), yocto-maxipowerrelay (carte 4 relais 240V) et yocto-meteo (senseur de température, humidité et pression atmosphérique). Gateway au travers du Raspberry Pi 4 qui héberge le code python. Application Blynk sur SmartPhone IOS
 
 # BLYNK 
 Blynk est un service web permettant de créer des Application sous Android/IOS rapidement et très simplement. Il exisite une multitude de libraiaire dans les languages C, Python disponibles sur GitHub. 
