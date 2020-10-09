@@ -86,4 +86,4 @@ Un fichier de LOG permet de contrôler l'ensemble des actions et mesures faites 
 
 Exemple du LOG file : 
 
-![](images/yoctoboxLog.jpg)
+![](images/yoctoboxLog.png)
