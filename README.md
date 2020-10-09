@@ -1,10 +1,6 @@
 # YoctoBox. (Modules Yoctopuce pilotés par APP Blynk sur IOS au travers d'une gateway Raspberry Pi 4)
 
-Interface entre module Yoctopuce Wifi avec Display, carte 4 relais 240V et senseur de température, humidité et pression atmosphérique.
-
-Gateway au travers du Raspberry Pi 4 qui héberge le code python.
-
-Application Blynk sur SmartPhone IOS
+Interface entre module Yoctopuce Wifi avec Display, carte 4 relais 240V et senseur de température, humidité et pression atmosphérique. Gateway au travers du Raspberry Pi 4 qui héberge le code python. Application Blynk sur SmartPhone IOS
 
 # LES MODULES Yoctopuce
 4 modules Yoctopuce sont nécessaires pour ce boitier YoctoBox: 
@@ -14,7 +10,7 @@ Le YoctoHub-Wireless-n est un module doté d'une connexion réseau sans fil (au 
 
 ![](images/YHUBWLN4.png)
 
-https://www.yoyctopuce.com
+https://www.yoctopuce.com
 
 # Module Display Yoctopuce
 Le Yocto-Display est un écran OLED de 128x32 pixels pilotable directement par USB. Il est doté d'un processeur embarqué permettant d'effectuer de manière autonome des opérations graphiques simples, d'afficher du texte avec diverses polices de caractères et même de jouer des animations pré-enregistrées. Son utilisation par USB, sans driver, en fait une solution idéale comme petit écran de contrôle pour des applications embarquées pilotées par un mini-PC tel que le Raspberry Pi. 
