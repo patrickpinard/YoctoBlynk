@@ -42,6 +42,15 @@ une boucle dans le code principal comprenant blynk.run() est nécessaire pour g�
               
         .....
 
+# librairie YoctoBox (YoctoBoxLib.py)
+J'ai créé une librairie pour définir les objets Relay, Display et SensorTPH et pouvoir manipuler plus simplement ceux-ci dans le code principal.
+
+
+   class YoctoSensorTPH(object):
+   class YoctoRelay(object):
+   class YoctoDisplay(object):
+
+
 # BLYNK 
 Blynk est un service web d'Internet des Objets (IoT) permettant de créer des Application sous Android/IOS rapidement et très simplement. Il exisite une multitude de libraiaire dans les languages C, Python disponibles sur GitHub. 
 
