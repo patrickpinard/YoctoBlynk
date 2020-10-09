@@ -44,14 +44,14 @@ ATTENTION au câblage 240V sur les relais. Il doit être fait selon les règles 
 # Montage de la YoctoBox
 La YoctoBox est montée dans un boitier étanche et résistant pouvant accueillir l'ensemble des modules.
 
-![](images/YoctoBox1.jpg)
+![](images/yoctobox1.jpg)
 
-![](images/yoctoBox2.jpg)
+![](images/yoctobox2.jpg)
 
-![](images/yoctoBox3.jpg)
+![](images/yoctobox3.jpg)
 
-![](images/yoctoBox4.jpg)
+![](images/yoctobox4.jpg)
 
-![](images/yoctoBox5.jpg)
+![](images/yoctobox5.jpg)
 
-![](images/yoctoBox6.jpg)
+![](images/yoctobox6.jpg)
