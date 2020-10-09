@@ -35,6 +35,10 @@ Le Raspberry Pi 4 n'a plus besoin d'être présenté...
 
 ![](images/raspberrypi.jpg)
 
+La station Terminal Raspberry PI 4 : 
+
+![](images/Raspberrypi-terminal.jpg)
+
 # Schéma de connectivité Yoctopuce
 Les modules Yoctopuces sont connectés entre eux par des câbles USB. 
 ATTENTION au câblage 240V sur les relais. Il doit être fait selon les règles de l'art et isolé du boitier pour assurer une sécurité maximale.
