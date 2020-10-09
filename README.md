@@ -46,9 +46,12 @@ une boucle dans le code principal comprenant blynk.run() est nécessaire pour g�
 J'ai créé une librairie pour définir les objets Relay, Display et SensorTPH et pouvoir manipuler plus simplement ceux-ci dans le code principal.
 
 
-   class YoctoSensorTPH(object):
-   class YoctoRelay(object):
-   class YoctoDisplay(object):
+    class YoctoSensorTPH(object):
+    
+    class YoctoRelay(object):
+    
+    class YoctoDisplay(object):
+    
 
 
 # BLYNK 
