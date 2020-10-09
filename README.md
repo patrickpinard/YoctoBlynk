@@ -3,6 +3,16 @@
 
 Interface entre module Yoctopuce Wifi avec Display, carte 4 relais 240V et senseur de température, humidité et pression atmosphérique. Gateway au travers du Raspberry Pi 4 qui héberge le code python. Application Blynk sur SmartPhone IOS
 
+# BLYNK 
+Blynk est un service web permettant de créer des Application sous Android/IOS rapidement et très simplement. Il exisite une multitude de libraiaire dans les languages C, Python disponibles sur GitHub. 
+
+![](images/YoctoBox-Blynk-APP.png)
+
+https://www.yoctopuce.com
+La définition des Virtual Pin est représentée sur l'image suivante : 
+
+![](images/Yoctobox-Blynk-VPINs.png)
+
 # LES MODULES Yoctopuce
 4 modules Yoctopuce sont nécessaires pour ce boitier YoctoBox: 
 
