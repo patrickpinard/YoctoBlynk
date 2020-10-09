@@ -24,7 +24,7 @@ global Tmin
 global Tmax
 path = "/home/pi/YoctoBlynßk"
 
-BLYNK_AUTH = 'rcB91tMoGqFLKR7vZ1ePrDIqn0izH59W'
+BLYNK_AUTH = 'clé blynk'
 blynk = blynklib.Blynk(BLYNK_AUTH)
 
 logging.basicConfig(filename='YoctoBox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
