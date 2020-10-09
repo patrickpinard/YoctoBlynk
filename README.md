@@ -19,18 +19,18 @@ https://www.yoyctopuce.com
 # Module Display Yoctopuce
 Le Yocto-Display est un écran OLED de 128x32 pixels pilotable directement par USB. Il est doté d'un processeur embarqué permettant d'effectuer de manière autonome des opérations graphiques simples, d'afficher du texte avec diverses polices de caractères et même de jouer des animations pré-enregistrées. Son utilisation par USB, sans driver, en fait une solution idéale comme petit écran de contrôle pour des applications embarquées pilotées par un mini-PC tel que le Raspberry Pi. 
 
-![](images/yoctodisplay.png)
+![](images/yoctodisplay.jpg)
 
 
 # Module Relais Yoctopuce
 le Yocto-MaxiPowerRelay comprend 5 relais qui supportent jusqu'à 250V et et 5 ampères. L'état de chaque relais est indiqué par une LED indépendante. 
 
-![](images/yocto-maxipowerelay.png)
+![](images/yocto-maxipowerelay.jpg)
 
 # Module Meteo Yoctopuce
 Votre propre station météo USB: le module Yocto-Meteo permet d'effectuer des mesures instantanées de température, de pression et d'humidité via un port USB, ainsi que d'enregistrer des mesures en continu sur une mémoire flash intégrée et de les relire ultérieurement via USB. C'est le module idéal pour faire votre propre station météo et surveiller les conditions météorologiques dans votre jardin. 
 
-![](images/yocto-meteo.png)
+![](images/yocto-meteo.jpg)
 
 
 # Raspberry Pi 4
