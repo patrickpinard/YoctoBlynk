@@ -1,4 +1,5 @@
-# YoctoBox. (Modules Yoctopuce pilotés par APP Blynk sur IOS au travers d'une gateway Raspberry Pi 4)
+# YoctoBox
+# Modules Yoctopuce pilotés par APP Blynk sur IOS au travers d'une gateway Raspberry Pi 4
 
 Interface entre module Yoctopuce Wifi avec Display, carte 4 relais 240V et senseur de température, humidité et pression atmosphérique. Gateway au travers du Raspberry Pi 4 qui héberge le code python. Application Blynk sur SmartPhone IOS
 
@@ -38,5 +39,19 @@ Le Raspberry Pi 4 n'a plus besoin d'être présenté...
 Les modules Yoctopuces sont connectés entre eux par des câbles USB. 
 ATTENTION au câblage 240V sur les relais. Il doit être fait selon les règles de l'art et isolé du boitier pour assurer une sécurité maximale.
 
+![](images/schema.jpg)
 
+# Montage de la YoctoBox
+La YoctoBox est montée dans un boitier étanche et résistant pouvant accueillir l'ensemble des modules.
 
+![](images/YoctoBox1.jpg)
+
+![](images/yoctoBox2.jpg)
+
+![](images/yoctoBox3.jpg)
+
+![](images/yoctoBox4.jpg)
+
+![](images/yoctoBox5.jpg)
+
+![](images/yoctoBox6.jpg)
