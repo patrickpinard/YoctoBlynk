@@ -155,7 +155,7 @@ Exemple du LOG file :
     global Tmax
     path = "/home/pi/YoctoBlynßk"
 
-    BLYNK_AUTH = 'clé blynk'
+    BLYNK_AUTH = 'votre clé blynk'.      # clé blynk reçue par email après création sur votre smartphone
     blynk = blynklib.Blynk(BLYNK_AUTH)
 
     logging.basicConfig(filename='YoctoBox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -292,7 +292,7 @@ Exemple du LOG file :
     target_relay = ''
     target_display = ''
 
-    YOCTO_IP_ADDRESS        = "192.168.1.160"
+    YOCTO_IP_ADDRESS        = "aaa.bbb.ccc.ddd". # adresse IP du module Wifi de YoctoBox
 
     #logging.basicConfig(filename='YoctoBox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     #logging.info('------- {  fichier log du YoctoBox } ----------')
