@@ -18,7 +18,9 @@ relai 1 (exemple simple)
 
     @blynk.handle_event('write V1')
     
-    def write_virtual_pin_handler(pin, value): str(value[0]) == "1":
+    def write_virtual_pin_handler(pin, value): 
+    
+    if str(value[0]) == "1":
     
         Relay.setState(1,True)     
         
