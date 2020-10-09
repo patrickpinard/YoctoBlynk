@@ -14,20 +14,25 @@ Utilisation de Yoctopuce Wifi avec yocto-display (display OLED de 128x32 pixels)
 Blynk utilise des Virtual Pins qui sont pilotées par une gestion des événements @blynk.handle_event('write V1') en fonction des actions sur l'APP.
 Par exemple, lorsque l'on presse sur le bouton lié à la virtual pin 1, le code ci-dessous s'execute : 
 
-# relai 1 (exemple simple)
+relai 1 (exemple simple)
+
 @blynk.handle_event('write V1')
+
 def write_virtual_pin_handler(pin, value):
     if str(value[0]) == "1":
         Relay.setState(1,True)     
     else:
         Relay.setState(1,False)   
+        
     return
+    
 
 une boucle dans le code principal comprenant blynk.run() est nécessaire pour gérer les événements : 
 
 .....
 while blynk.connect:
         blynk.run()
+       
         .....
 
 # BLYNK 
