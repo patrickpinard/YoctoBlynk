@@ -16,11 +16,9 @@ Par exemple, lorsque l'on presse sur le bouton lié à la virtual pin 1, le code
 
 relai 1 (exemple simple)
 
-@blynk.handle_event('write V1')
-
-def write_virtual_pin_handler(pin, value):
-
-    if str(value[0]) == "1":
+    @blynk.handle_event('write V1')
+    
+    def write_virtual_pin_handler(pin, value): str(value[0]) == "1":
     
         Relay.setState(1,True)     
         
@@ -33,11 +31,12 @@ def write_virtual_pin_handler(pin, value):
 
 une boucle dans le code principal comprenant blynk.run() est nécessaire pour gérer les événements : 
 
-.....
 
-while blynk.connect:
-
-        blynk.run()
+        .....
+        
+        while blynk.connect:
+        
+            blynk.run()
               
         .....
 
