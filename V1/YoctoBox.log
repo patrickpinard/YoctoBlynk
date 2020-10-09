@@ -1,0 +1,595 @@
+2020-10-09 11:26:11,944 - INFO - ########################################
+2020-10-09 11:26:11,944 - INFO -   fichier de LOG : YoctoBox.log
+2020-10-09 11:26:11,944 - INFO -   Patrick Pinard 2020 - YoctoBox V1
+2020-10-09 11:26:11,945 - INFO -   Délai entre deux mesures (mn): 10
+2020-10-09 11:26:11,945 - INFO - ########################################
+2020-10-09 11:26:12,249 - INFO - Yoctopuce HUB connecté avec succès !
+2020-10-09 11:26:12,250 - INFO - Création du senseur "YoctoBox Atelier"
+2020-10-09 11:26:12,251 - INFO - Senseur cible identifié : METEOMK2-EB018
+2020-10-09 11:26:12,251 - INFO - Création du module relais "YoctoBox relais 1 à 4"
+2020-10-09 11:26:12,349 - INFO - Relais cible  : MXPWRRLY-EAA6E
+2020-10-09 11:26:12,351 - INFO -    Relai 1 configuré à OFF
+2020-10-09 11:26:12,351 - INFO -    Relai 2 configuré à OFF
+2020-10-09 11:26:12,351 - INFO -    Relai 3 configuré à OFF
+2020-10-09 11:26:12,351 - INFO -    Relai 4 configuré à OFF
+2020-10-09 11:26:12,494 - INFO - Yoctopuce HUB connecté avec succès !
+2020-10-09 11:26:12,495 - INFO - Création du display "YoctoBox Display"
+2020-10-09 11:26:12,496 - INFO - Target Display : YD128X64-E4EB0
+2020-10-09 11:26:39,399 - INFO - Changement d'état du relai
+2020-10-09 11:26:39,461 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:26:39,461 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:26:39,461 - INFO -   Numéro du relai : 3
+2020-10-09 11:26:39,462 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:26:40,200 - INFO - Changement d'état du relai
+2020-10-09 11:26:40,235 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:26:40,236 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:26:40,236 - INFO -   Numéro du relai : 3
+2020-10-09 11:26:40,237 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:27:54,188 - INFO - Lecture du senseur TPH
+2020-10-09 11:27:54,266 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:27:54,267 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:27:54,267 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:27:54,268 - INFO -   Température (celsius)   : 14.82
+2020-10-09 11:27:54,268 - INFO -   Humidité    (pourcent)  : 60.1
+2020-10-09 11:27:54,269 - INFO -   Pression    (hPascal)   : 958.04
+2020-10-09 11:27:54,290 - INFO - Prochaine mesure prévue à : 11:37:54
+2020-10-09 11:27:54,336 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:27:54,337 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:27:54,337 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:27:54,341 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:27:57,759 - INFO - Lecture du senseur TPH
+2020-10-09 11:27:57,812 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:27:57,813 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:27:57,813 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:27:57,814 - INFO -   Température (celsius)   : 14.83
+2020-10-09 11:27:57,814 - INFO -   Humidité    (pourcent)  : 60.4
+2020-10-09 11:27:57,814 - INFO -   Pression    (hPascal)   : 958.05
+2020-10-09 11:27:57,815 - INFO - Prochaine mesure prévue à : 11:37:57
+2020-10-09 11:27:57,858 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:27:57,858 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:27:57,859 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:27:57,863 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:27:59,505 - INFO - Lecture du senseur TPH
+2020-10-09 11:27:59,558 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:27:59,559 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:27:59,559 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:27:59,560 - INFO -   Température (celsius)   : 14.83
+2020-10-09 11:27:59,560 - INFO -   Humidité    (pourcent)  : 60.4
+2020-10-09 11:27:59,561 - INFO -   Pression    (hPascal)   : 958.06
+2020-10-09 11:27:59,562 - INFO - Prochaine mesure prévue à : 11:37:59
+2020-10-09 11:27:59,610 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:27:59,612 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:27:59,613 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:27:59,619 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:28:00,976 - INFO - Lecture du senseur TPH
+2020-10-09 11:28:01,035 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:28:01,036 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:28:01,036 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:28:01,037 - INFO -   Température (celsius)   : 14.83
+2020-10-09 11:28:01,037 - INFO -   Humidité    (pourcent)  : 60.4
+2020-10-09 11:28:01,038 - INFO -   Pression    (hPascal)   : 958.06
+2020-10-09 11:28:01,040 - INFO - Prochaine mesure prévue à : 11:38:01
+2020-10-09 11:28:01,086 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:28:01,086 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:28:01,087 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:28:01,092 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:28:07,575 - INFO - Changement d'état du relai
+2020-10-09 11:28:07,616 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:07,616 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:07,617 - INFO -   Numéro du relai : 2
+2020-10-09 11:28:07,617 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:28:09,148 - INFO - Changement d'état du relai
+2020-10-09 11:28:09,185 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:09,186 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:09,186 - INFO -   Numéro du relai : 2
+2020-10-09 11:28:09,186 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:28:09,580 - INFO - Changement d'état du relai
+2020-10-09 11:28:09,616 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:09,617 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:09,617 - INFO -   Numéro du relai : 3
+2020-10-09 11:28:09,618 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:28:11,007 - INFO - Changement d'état du relai
+2020-10-09 11:28:11,045 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:11,045 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:11,046 - INFO -   Numéro du relai : 3
+2020-10-09 11:28:11,046 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:28:11,666 - INFO - Changement d'état du relai
+2020-10-09 11:28:11,705 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:11,706 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:11,707 - INFO -   Numéro du relai : 1
+2020-10-09 11:28:11,708 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:28:15,312 - INFO - Changement d'état du relai
+2020-10-09 11:28:15,354 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:15,355 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:15,355 - INFO -   Numéro du relai : 1
+2020-10-09 11:28:15,355 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:28:17,033 - INFO - Lecture du senseur TPH
+2020-10-09 11:28:17,084 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:28:17,089 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:28:17,090 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:28:17,091 - INFO -   Température (celsius)   : 14.79
+2020-10-09 11:28:17,091 - INFO -   Humidité    (pourcent)  : 60.9
+2020-10-09 11:28:17,092 - INFO -   Pression    (hPascal)   : 958.06
+2020-10-09 11:28:17,094 - INFO - Prochaine mesure prévue à : 11:38:17
+2020-10-09 11:28:17,138 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:28:17,139 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:28:17,139 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:28:17,144 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:28:23,814 - INFO - Lecture du senseur TPH
+2020-10-09 11:28:23,873 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:28:23,874 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:28:23,885 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:28:23,886 - INFO -   Température (celsius)   : 14.79
+2020-10-09 11:28:23,887 - INFO -   Humidité    (pourcent)  : 61.1
+2020-10-09 11:28:23,887 - INFO -   Pression    (hPascal)   : 958.06
+2020-10-09 11:28:23,889 - INFO - Prochaine mesure prévue à : 11:38:23
+2020-10-09 11:28:23,933 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:28:23,933 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:28:23,934 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:28:23,937 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:28:29,545 - INFO - Changement d'état du relai
+2020-10-09 11:28:29,583 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:29,584 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:29,585 - INFO -   Numéro du relai : 3
+2020-10-09 11:28:29,585 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:28:32,733 - INFO - Changement d'état du relai
+2020-10-09 11:28:32,774 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:32,775 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:32,776 - INFO -   Numéro du relai : 3
+2020-10-09 11:28:32,777 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:28:34,087 - INFO - Lecture du senseur TPH
+2020-10-09 11:28:34,140 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:28:34,141 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:28:34,141 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:28:34,142 - INFO -   Température (celsius)   : 14.76
+2020-10-09 11:28:34,142 - INFO -   Humidité    (pourcent)  : 61.2
+2020-10-09 11:28:34,143 - INFO -   Pression    (hPascal)   : 958.07
+2020-10-09 11:28:34,145 - INFO - Prochaine mesure prévue à : 11:38:34
+2020-10-09 11:28:34,191 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:28:34,193 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:28:34,193 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:28:34,201 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:28:39,785 - INFO - Changement d'état du relai
+2020-10-09 11:28:39,824 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:28:39,825 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:28:39,826 - INFO -   Numéro du relai : 1
+2020-10-09 11:28:39,826 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:29:15,733 - INFO - Lecture du senseur TPH
+2020-10-09 11:29:15,787 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:29:15,787 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:29:15,788 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:29:15,788 - INFO -   Température (celsius)   : 14.75
+2020-10-09 11:29:15,789 - INFO -   Humidité    (pourcent)  : 61.8
+2020-10-09 11:29:15,789 - INFO -   Pression    (hPascal)   : 958.1
+2020-10-09 11:29:15,791 - INFO - Prochaine mesure prévue à : 11:39:15
+2020-10-09 11:29:15,835 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:29:15,835 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:29:15,835 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:29:15,838 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:29:38,595 - INFO - Lecture du senseur TPH
+2020-10-09 11:29:38,651 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:29:38,652 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:29:38,653 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:29:38,654 - INFO -   Température (celsius)   : 19.94
+2020-10-09 11:29:38,654 - INFO -   Humidité    (pourcent)  : 58.6
+2020-10-09 11:29:38,655 - INFO -   Pression    (hPascal)   : 959.7
+2020-10-09 11:29:38,656 - INFO - Changement d'état du relai
+2020-10-09 11:29:38,694 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:29:38,695 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:29:38,695 - INFO -   Numéro du relai : 1
+2020-10-09 11:29:38,696 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:29:38,697 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:29:38,698 - INFO - Prochaine mesure prévue à : 11:39:38
+2020-10-09 11:29:38,747 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:29:38,747 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:29:38,747 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:29:38,750 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:29:43,326 - INFO - Lecture du senseur TPH
+2020-10-09 11:29:43,378 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:29:43,379 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:29:43,379 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:29:43,380 - INFO -   Température (celsius)   : 21.23
+2020-10-09 11:29:43,380 - INFO -   Humidité    (pourcent)  : 51.9
+2020-10-09 11:29:43,381 - INFO -   Pression    (hPascal)   : 959.69
+2020-10-09 11:29:43,382 - INFO - Changement d'état du relai
+2020-10-09 11:29:43,416 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:29:43,417 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:29:43,417 - INFO -   Numéro du relai : 1
+2020-10-09 11:29:43,417 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:29:43,418 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:29:43,419 - INFO - Prochaine mesure prévue à : 11:39:43
+2020-10-09 11:29:43,469 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:29:43,470 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:29:43,470 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:29:43,473 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:29:45,286 - INFO - Lecture du senseur TPH
+2020-10-09 11:29:45,339 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:29:45,340 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:29:45,340 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:29:45,341 - INFO -   Température (celsius)   : 21.05
+2020-10-09 11:29:45,341 - INFO -   Humidité    (pourcent)  : 50.2
+2020-10-09 11:29:45,342 - INFO -   Pression    (hPascal)   : 959.67
+2020-10-09 11:29:45,343 - INFO - Changement d'état du relai
+2020-10-09 11:29:45,379 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:29:45,380 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:29:45,380 - INFO -   Numéro du relai : 1
+2020-10-09 11:29:45,381 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:29:45,381 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:29:45,382 - INFO - Prochaine mesure prévue à : 11:39:45
+2020-10-09 11:29:45,432 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:29:45,433 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:29:45,433 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:29:45,437 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:29:59,048 - INFO - Changement d'état du relai
+2020-10-09 11:29:59,085 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:29:59,085 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:29:59,086 - INFO -   Numéro du relai : 3
+2020-10-09 11:29:59,086 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:29:59,799 - INFO - Changement d'état du relai
+2020-10-09 11:29:59,829 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:29:59,829 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:29:59,830 - INFO -   Numéro du relai : 3
+2020-10-09 11:29:59,830 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:30:01,499 - INFO - Changement d'état du relai
+2020-10-09 11:30:01,534 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:01,535 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:01,536 - INFO -   Numéro du relai : 2
+2020-10-09 11:30:01,536 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:02,444 - INFO - Changement d'état du relai
+2020-10-09 11:30:02,483 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:02,484 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:02,484 - INFO -   Numéro du relai : 2
+2020-10-09 11:30:02,485 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:30:03,846 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:03,898 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:03,899 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:03,899 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:03,899 - INFO -   Température (celsius)   : 20.85
+2020-10-09 11:30:03,900 - INFO -   Humidité    (pourcent)  : 47.3
+2020-10-09 11:30:03,900 - INFO -   Pression    (hPascal)   : 959.55
+2020-10-09 11:30:03,901 - INFO - Changement d'état du relai
+2020-10-09 11:30:03,937 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:03,938 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:03,939 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:03,939 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:30:03,940 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:30:03,941 - INFO - Prochaine mesure prévue à : 11:40:03
+2020-10-09 11:30:03,991 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:03,991 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:03,992 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:03,996 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:04,968 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:05,021 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:05,022 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:05,022 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:05,022 - INFO -   Température (celsius)   : 20.85
+2020-10-09 11:30:05,023 - INFO -   Humidité    (pourcent)  : 47.3
+2020-10-09 11:30:05,023 - INFO -   Pression    (hPascal)   : 959.54
+2020-10-09 11:30:05,023 - INFO - Changement d'état du relai
+2020-10-09 11:30:05,056 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:05,056 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:05,056 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:05,056 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:30:05,057 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:30:05,057 - INFO - Prochaine mesure prévue à : 11:40:05
+2020-10-09 11:30:05,109 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:05,109 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:05,109 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:05,111 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:08,221 - INFO - Changement de Tmax : 16 
+2020-10-09 11:30:08,373 - INFO - Changement de Tmax : 17 
+2020-10-09 11:30:08,559 - INFO - Changement de Tmax : 18 
+2020-10-09 11:30:08,723 - INFO - Changement de Tmax : 19 
+2020-10-09 11:30:08,873 - INFO - Changement de Tmax : 20 
+2020-10-09 11:30:09,083 - INFO - Changement de Tmax : 21 
+2020-10-09 11:30:09,266 - INFO - Changement de Tmax : 22 
+2020-10-09 11:30:10,062 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:10,806 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:10,807 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:10,808 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:10,808 - INFO -   Température (celsius)   : 20.76
+2020-10-09 11:30:10,808 - INFO -   Humidité    (pourcent)  : 47.0
+2020-10-09 11:30:10,809 - INFO -   Pression    (hPascal)   : 959.48
+2020-10-09 11:30:10,810 - INFO - Prochaine mesure prévue à : 11:40:10
+2020-10-09 11:30:10,859 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:10,860 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:10,860 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:10,866 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:11,813 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:11,868 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:11,869 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:11,870 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:11,871 - INFO -   Température (celsius)   : 20.74
+2020-10-09 11:30:11,871 - INFO -   Humidité    (pourcent)  : 47.0
+2020-10-09 11:30:11,872 - INFO -   Pression    (hPascal)   : 959.46
+2020-10-09 11:30:11,875 - INFO - Prochaine mesure prévue à : 11:40:11
+2020-10-09 11:30:11,925 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:11,926 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:11,926 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:11,932 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:16,428 - INFO - Changement de Tmin : 11 
+2020-10-09 11:30:16,584 - INFO - Changement de Tmin : 12 
+2020-10-09 11:30:16,753 - INFO - Changement de Tmin : 13 
+2020-10-09 11:30:16,903 - INFO - Changement de Tmin : 14 
+2020-10-09 11:30:17,062 - INFO - Changement de Tmin : 15 
+2020-10-09 11:30:17,228 - INFO - Changement de Tmin : 16 
+2020-10-09 11:30:17,387 - INFO - Changement de Tmin : 17 
+2020-10-09 11:30:17,537 - INFO - Changement de Tmin : 18 
+2020-10-09 11:30:17,686 - INFO - Changement de Tmin : 19 
+2020-10-09 11:30:17,837 - INFO - Changement de Tmin : 20 
+2020-10-09 11:30:19,159 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:19,212 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:19,213 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:19,213 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:19,214 - INFO -   Température (celsius)   : 20.59
+2020-10-09 11:30:19,215 - INFO -   Humidité    (pourcent)  : 47.0
+2020-10-09 11:30:19,215 - INFO -   Pression    (hPascal)   : 959.39
+2020-10-09 11:30:19,217 - INFO - Prochaine mesure prévue à : 11:40:19
+2020-10-09 11:30:19,264 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:19,264 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:19,265 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:19,270 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:21,049 - INFO - Changement de Tmin : 21 
+2020-10-09 11:30:21,342 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:21,394 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:21,395 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:21,396 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:21,396 - INFO -   Température (celsius)   : 20.55
+2020-10-09 11:30:21,397 - INFO -   Humidité    (pourcent)  : 47.1
+2020-10-09 11:30:21,398 - INFO -   Pression    (hPascal)   : 959.37
+2020-10-09 11:30:21,399 - INFO - Changement d'état du relai
+2020-10-09 11:30:21,436 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:21,437 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:21,437 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:21,438 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:21,438 - INFO - Radiateur enclenché (ON) par thermostat
+2020-10-09 11:30:21,439 - INFO - Température basse : <= 21 °C !
+2020-10-09 11:30:21,440 - INFO - Prochaine mesure prévue à : 11:40:21
+2020-10-09 11:30:21,494 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:21,495 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:21,496 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:21,502 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:34,028 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:34,082 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:34,083 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:34,083 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:34,084 - INFO -   Température (celsius)   : 20.27
+2020-10-09 11:30:34,084 - INFO -   Humidité    (pourcent)  : 47.7
+2020-10-09 11:30:34,085 - INFO -   Pression    (hPascal)   : 959.28
+2020-10-09 11:30:34,086 - INFO - Changement d'état du relai
+2020-10-09 11:30:34,123 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:34,125 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:34,125 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:34,126 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:34,127 - INFO - Radiateur enclenché (ON) par thermostat
+2020-10-09 11:30:34,127 - INFO - Température basse : <= 21 °C !
+2020-10-09 11:30:34,129 - INFO - Prochaine mesure prévue à : 11:40:34
+2020-10-09 11:30:34,176 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:34,176 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:34,176 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:34,179 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:35,643 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:35,700 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:35,701 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:35,702 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:35,702 - INFO -   Température (celsius)   : 20.23
+2020-10-09 11:30:35,703 - INFO -   Humidité    (pourcent)  : 47.8
+2020-10-09 11:30:35,703 - INFO -   Pression    (hPascal)   : 959.28
+2020-10-09 11:30:35,704 - INFO - Changement d'état du relai
+2020-10-09 11:30:35,740 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:35,741 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:35,742 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:35,742 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:35,743 - INFO - Radiateur enclenché (ON) par thermostat
+2020-10-09 11:30:35,743 - INFO - Température basse : <= 21 °C !
+2020-10-09 11:30:35,744 - INFO - Prochaine mesure prévue à : 11:40:35
+2020-10-09 11:30:35,796 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:35,797 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:35,797 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:35,799 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:48,539 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:48,592 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:48,592 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:48,592 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:48,593 - INFO -   Température (celsius)   : 19.94
+2020-10-09 11:30:48,593 - INFO -   Humidité    (pourcent)  : 48.7
+2020-10-09 11:30:48,593 - INFO -   Pression    (hPascal)   : 959.22
+2020-10-09 11:30:48,594 - INFO - Changement d'état du relai
+2020-10-09 11:30:48,628 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:48,629 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:48,629 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:48,629 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:48,630 - INFO - Radiateur enclenché (ON) par thermostat
+2020-10-09 11:30:48,630 - INFO - Température basse : <= 21 °C !
+2020-10-09 11:30:48,631 - INFO - Prochaine mesure prévue à : 11:40:48
+2020-10-09 11:30:48,682 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:48,683 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:48,683 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:48,688 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:50,789 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:50,841 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:50,842 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:50,843 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:50,843 - INFO -   Température (celsius)   : 19.89
+2020-10-09 11:30:50,844 - INFO -   Humidité    (pourcent)  : 48.8
+2020-10-09 11:30:50,844 - INFO -   Pression    (hPascal)   : 959.19
+2020-10-09 11:30:50,845 - INFO - Changement d'état du relai
+2020-10-09 11:30:50,880 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:50,880 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:50,881 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:50,881 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:50,882 - INFO - Radiateur enclenché (ON) par thermostat
+2020-10-09 11:30:50,882 - INFO - Température basse : <= 21 °C !
+2020-10-09 11:30:50,883 - INFO - Prochaine mesure prévue à : 11:40:50
+2020-10-09 11:30:50,934 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:50,934 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:50,935 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:50,940 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:56,480 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:56,536 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:56,537 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:56,537 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:56,538 - INFO -   Température (celsius)   : 20.6
+2020-10-09 11:30:56,538 - INFO -   Humidité    (pourcent)  : 49.4
+2020-10-09 11:30:56,539 - INFO -   Pression    (hPascal)   : 959.42
+2020-10-09 11:30:56,540 - INFO - Changement d'état du relai
+2020-10-09 11:30:56,579 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:30:56,580 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:30:56,580 - INFO -   Numéro du relai : 1
+2020-10-09 11:30:56,581 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:30:56,581 - INFO - Radiateur enclenché (ON) par thermostat
+2020-10-09 11:30:56,582 - INFO - Température basse : <= 21 °C !
+2020-10-09 11:30:56,583 - INFO - Prochaine mesure prévue à : 11:40:56
+2020-10-09 11:30:56,629 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:56,630 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:56,630 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:56,633 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:30:58,773 - INFO - Lecture du senseur TPH
+2020-10-09 11:30:58,831 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:30:58,832 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:30:58,833 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:30:58,833 - INFO -   Température (celsius)   : 22.86
+2020-10-09 11:30:58,834 - INFO -   Humidité    (pourcent)  : 48.4
+2020-10-09 11:30:58,834 - INFO -   Pression    (hPascal)   : 959.73
+2020-10-09 11:30:58,836 - INFO - Prochaine mesure prévue à : 11:40:58
+2020-10-09 11:30:58,879 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:30:58,880 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:30:58,880 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:30:58,884 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:31:00,423 - INFO - Lecture du senseur TPH
+2020-10-09 11:31:00,478 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:31:00,479 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:31:00,479 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:31:00,480 - INFO -   Température (celsius)   : 24.17
+2020-10-09 11:31:00,480 - INFO -   Humidité    (pourcent)  : 46.6
+2020-10-09 11:31:00,481 - INFO -   Pression    (hPascal)   : 959.93
+2020-10-09 11:31:00,483 - INFO - Changement d'état du relai
+2020-10-09 11:31:00,521 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:00,522 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:00,523 - INFO -   Numéro du relai : 1
+2020-10-09 11:31:00,523 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:31:00,524 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:31:00,524 - INFO - Prochaine mesure prévue à : 11:41:00
+2020-10-09 11:31:00,581 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:31:00,582 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:31:00,582 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:31:00,587 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:31:03,195 - INFO - Lecture du senseur TPH
+2020-10-09 11:31:03,251 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:31:03,251 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:31:03,252 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:31:03,253 - INFO -   Température (celsius)   : 24.98
+2020-10-09 11:31:03,253 - INFO -   Humidité    (pourcent)  : 43.2
+2020-10-09 11:31:03,254 - INFO -   Pression    (hPascal)   : 959.97
+2020-10-09 11:31:03,255 - INFO - Changement d'état du relai
+2020-10-09 11:31:03,289 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:03,290 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:03,290 - INFO -   Numéro du relai : 1
+2020-10-09 11:31:03,291 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:31:03,291 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:31:03,292 - INFO - Prochaine mesure prévue à : 11:41:03
+2020-10-09 11:31:03,345 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:31:03,346 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:31:03,346 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:31:03,350 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:31:09,639 - INFO - Changement de Tmin : 20 
+2020-10-09 11:31:09,848 - INFO - Changement de Tmin : 19 
+2020-10-09 11:31:09,992 - INFO - Changement de Tmin : 18 
+2020-10-09 11:31:10,155 - INFO - Changement de Tmin : 17 
+2020-10-09 11:31:10,277 - INFO - Changement de Tmin : 16 
+2020-10-09 11:31:10,431 - INFO - Changement de Tmin : 15 
+2020-10-09 11:31:10,533 - INFO - Changement de Tmin : 14 
+2020-10-09 11:31:10,637 - INFO - Changement de Tmin : 13 
+2020-10-09 11:31:10,751 - INFO - Changement de Tmin : 12 
+2020-10-09 11:31:10,866 - INFO - Changement de Tmin : 11 
+2020-10-09 11:31:10,967 - INFO - Changement de Tmin : 10 
+2020-10-09 11:31:11,070 - INFO - Changement de Tmin : 9 
+2020-10-09 11:31:11,554 - INFO - Changement de Tmin : 8 
+2020-10-09 11:31:11,611 - INFO - Changement de Tmin : 7 
+2020-10-09 11:31:11,973 - INFO - Changement de Tmin : 6 
+2020-10-09 11:31:12,093 - INFO - Changement de Tmin : 5 
+2020-10-09 11:31:12,188 - INFO - Changement de Tmin : 4 
+2020-10-09 11:31:12,968 - INFO - Changement de Tmin : 5 
+2020-10-09 11:31:13,152 - INFO - Changement de Tmin : 6 
+2020-10-09 11:31:14,343 - INFO - Changement de Tmax : 21 
+2020-10-09 11:31:14,501 - INFO - Changement de Tmax : 20 
+2020-10-09 11:31:14,642 - INFO - Changement de Tmax : 19 
+2020-10-09 11:31:14,758 - INFO - Changement de Tmax : 18 
+2020-10-09 11:31:14,900 - INFO - Changement de Tmax : 17 
+2020-10-09 11:31:15,042 - INFO - Changement de Tmax : 16 
+2020-10-09 11:31:15,176 - INFO - Changement de Tmax : 15 
+2020-10-09 11:31:15,313 - INFO - Changement de Tmax : 14 
+2020-10-09 11:31:15,444 - INFO - Changement de Tmax : 13 
+2020-10-09 11:31:16,418 - INFO - Changement de Tmax : 14 
+2020-10-09 11:31:17,368 - INFO - Changement de Tmax : 15 
+2020-10-09 11:31:20,089 - INFO - Changement de Tmax : 14 
+2020-10-09 11:31:20,282 - INFO - Changement de Tmax : 13 
+2020-10-09 11:31:20,465 - INFO - Changement de Tmax : 12 
+2020-10-09 11:31:20,596 - INFO - Changement de Tmax : 11 
+2020-10-09 11:31:21,399 - INFO - Changement de Tmax : 10 
+2020-10-09 11:31:22,464 - INFO - Lecture du senseur TPH
+2020-10-09 11:31:22,516 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:31:22,516 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:31:22,517 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:31:22,518 - INFO -   Température (celsius)   : 23.37
+2020-10-09 11:31:22,518 - INFO -   Humidité    (pourcent)  : 41.1
+2020-10-09 11:31:22,519 - INFO -   Pression    (hPascal)   : 959.88
+2020-10-09 11:31:22,520 - INFO - Changement d'état du relai
+2020-10-09 11:31:22,556 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:22,557 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:22,558 - INFO -   Numéro du relai : 1
+2020-10-09 11:31:22,558 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:31:22,559 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:31:22,560 - INFO - Prochaine mesure prévue à : 11:41:22
+2020-10-09 11:31:22,609 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:31:22,610 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:31:22,610 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:31:22,613 - INFO - Demande manuelle de lecture des données du senseur TPH !
+2020-10-09 11:31:46,868 - INFO - Changement d'état du relai
+2020-10-09 11:31:46,905 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:46,906 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:46,906 - INFO -   Numéro du relai : 2
+2020-10-09 11:31:46,907 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:31:51,145 - INFO - Changement d'état du relai
+2020-10-09 11:31:51,182 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:51,183 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:51,184 - INFO -   Numéro du relai : 2
+2020-10-09 11:31:51,184 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:31:52,545 - INFO - Changement d'état du relai
+2020-10-09 11:31:52,581 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:52,582 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:52,583 - INFO -   Numéro du relai : 3
+2020-10-09 11:31:52,583 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:31:53,372 - INFO - Changement d'état du relai
+2020-10-09 11:31:53,408 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:53,409 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:53,409 - INFO -   Numéro du relai : 3
+2020-10-09 11:31:53,410 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:31:53,944 - INFO - Changement d'état du relai
+2020-10-09 11:31:53,980 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:53,981 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:53,982 - INFO -   Numéro du relai : 2
+2020-10-09 11:31:53,982 - INFO -   Etat (ON/OFF)   : ON
+2020-10-09 11:31:54,711 - INFO - Changement d'état du relai
+2020-10-09 11:31:54,748 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:31:54,749 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:31:54,749 - INFO -   Numéro du relai : 2
+2020-10-09 11:31:54,750 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:32:00,972 - INFO - Lecture du senseur TPH
+2020-10-09 11:32:01,026 - INFO -   Nom du senseur          : YoctoBox Atelier
+2020-10-09 11:32:01,026 - INFO -   Adresse IP              : 192.168.1.160
+2020-10-09 11:32:01,027 - INFO -   Module du senseur       : METEOMK2-EB018
+2020-10-09 11:32:01,028 - INFO -   Température (celsius)   : 22.17
+2020-10-09 11:32:01,030 - INFO -   Humidité    (pourcent)  : 43.1
+2020-10-09 11:32:01,031 - INFO -   Pression    (hPascal)   : 959.6
+2020-10-09 11:32:01,038 - INFO - Changement d'état du relai
+2020-10-09 11:32:01,076 - INFO -   Nom du senseur  : YoctoBox relais 1 à 4
+2020-10-09 11:32:01,076 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-09 11:32:01,077 - INFO -   Numéro du relai : 1
+2020-10-09 11:32:01,078 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-09 11:32:01,079 - INFO - Radiateur déclenché (OFF) par thermostat
+2020-10-09 11:32:01,080 - INFO - Prochaine mesure prévue à : 11:42:01
+2020-10-09 11:32:01,126 - INFO - Nom du display    : YoctoBox Display
+2020-10-09 11:32:01,126 - INFO - Module du display : YD128X64-E4EB0
+2020-10-09 11:32:01,127 - INFO - ....Affichage des paramètres TPH
+2020-10-09 11:32:01,131 - INFO - Demande manuelle de lecture des données du senseur TPH !
