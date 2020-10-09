@@ -142,13 +142,6 @@ Exemple du LOG file :
     # Version   : 1.0
     # -*- coding: utf-8 -*-
 
-    #   Clavier MAC :      
-    #  {} = "alt/option" + "(" ou ")"
-    #  [] = "alt/option" + "5" ou "6"
-    #   ~  = "alt/option" + n    
-    #   \  = Alt + Maj + / 
-
-
     import logging
     import blynklib
     import time
@@ -281,39 +274,32 @@ Exemple du LOG file :
 # Librairie YoctoBoxLib.py
 
     # Auteur    : Patrick Pinard
-# Date      : 14.08.2020
-# Objet     : gestion de senseur Yoctopuce pour température humidité et pression ainsi que relais et affichage
-# Version   : 1
+    # Date      : 14.08.2020
+    # Objet     : gestion de senseur Yoctopuce pour température humidité et pression ainsi que relais et affichage
+    # Version   : 1
+    # -*- coding: utf-8 -*-
 
-# -*- coding: utf-8 -*-
+    from yoctopuce.yocto_api import *
+    from yoctopuce.yocto_humidity import *
+    from yoctopuce.yocto_temperature import *
+    from yoctopuce.yocto_pressure import *
+    from yoctopuce.yocto_relay import *
+    from yoctopuce.yocto_lightsensor import *
+    from yoctopuce.yocto_display import *
+    import logging
 
-#   Clavier MAC :      
-#  {} = "alt/option" + "(" ou ")"
-#  [] = "alt/option" + "5" ou "6"
-#   ~  = "alt/option" + n    
-#   \  = Alt + Maj + / 
-  
-from yoctopuce.yocto_api import *
-from yoctopuce.yocto_humidity import *
-from yoctopuce.yocto_temperature import *
-from yoctopuce.yocto_pressure import *
-from yoctopuce.yocto_relay import *
-from yoctopuce.yocto_lightsensor import *
-from yoctopuce.yocto_display import *
-import logging
+    target_sensor = ''
+    target_relay = ''
+    target_display = ''
 
-target_sensor = ''
-target_relay = ''
-target_display = ''
+    YOCTO_IP_ADDRESS        = "192.168.1.160"
 
-YOCTO_IP_ADDRESS        = "192.168.1.160"
+    #logging.basicConfig(filename='YoctoBox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    #logging.info('------- {  fichier log du YoctoBox } ----------')
+    #logging.info('Yoctopuce IP address : %s', YOCTO_IP_ADDRESS)
+    logging = logging.getLogger()
 
-#logging.basicConfig(filename='YoctoBox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-#logging.info('------- {  fichier log du YoctoBox } ----------')
-#logging.info('Yoctopuce IP address : %s', YOCTO_IP_ADDRESS)
-logging = logging.getLogger()
-
-class YoctoSensorTPH(object):
+    class YoctoSensorTPH(object):
 
     """
     Classe definissant un senseur de température, pression et humidité caracterisé par :
@@ -385,7 +371,7 @@ class YoctoSensorTPH(object):
         
         return
 
-class YoctoRelay:
+    class YoctoRelay:
 
     """
     Classe definissant un Module Relais caracterisé par :
@@ -491,7 +477,7 @@ class YoctoRelay:
         return
 
 
-class YoctoDisplay:
+    class YoctoDisplay:
 
     """
     Classe definissant un display module Yoctopuce caracterisé par :
