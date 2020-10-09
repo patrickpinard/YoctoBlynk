@@ -19,20 +19,26 @@ relai 1 (exemple simple)
 @blynk.handle_event('write V1')
 
 def write_virtual_pin_handler(pin, value):
+
     if str(value[0]) == "1":
+    
         Relay.setState(1,True)     
-    else:
-        Relay.setState(1,False)   
         
+    else:
+    
+        Relay.setState(1,False)   
+                
     return
     
 
 une boucle dans le code principal comprenant blynk.run() est nécessaire pour gérer les événements : 
 
 .....
+
 while blynk.connect:
+
         blynk.run()
-       
+              
         .....
 
 # BLYNK 
