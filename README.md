@@ -294,9 +294,6 @@ Exemple du LOG file :
 
     YOCTO_IP_ADDRESS        = "aaa.bbb.ccc.ddd". # adresse IP du module Wifi de YoctoBox
 
-    #logging.basicConfig(filename='YoctoBox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    #logging.info('------- {  fichier log du YoctoBox } ----------')
-    #logging.info('Yoctopuce IP address : %s', YOCTO_IP_ADDRESS)
     logging = logging.getLogger()
 
     class YoctoSensorTPH(object):
