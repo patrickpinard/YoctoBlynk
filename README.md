@@ -62,7 +62,7 @@ l'APP Blynk sous IOS est construite de la manière suivante :
 
 ![](images/YoctoBox-Blynk-APP.png)
 
-https://www.yoctopuce.com
+https://www.blynk.io
 
 La définition des Virtual Pin est représentée sur l'image suivante : 
 
