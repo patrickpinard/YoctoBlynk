@@ -1,6 +1,4 @@
-# Auteur    : Patrick Pinard
-# Date      : 12.10.2020
-# Objet     : interface Yoctopuce et Blynk avec APP IOS 
+# Auteur    : Patrick 
 # Version   : 2.1  (amélioration de Object YocotBox)
 # -*- coding: utf-8 -*-
 
@@ -17,15 +15,14 @@ delay = 600  # temps en sec entre deux lectures des senseurs
 global YoctoBox
 
 PATH = "/home/pi/yoctoblynk"
-YOCTO_IP = '192.168.1.160'
-YOCTO_NAME = 'Atelier'
+YOCTO_IP = 'adresse IP de votre YoctoBox'
+YOCTO_NAME = 'nom de YoctoBox'
 BLYNK_AUTH = 'votre clé blynk'
 
 blynk = blynklib.Blynk(BLYNK_AUTH)
 
 logging.basicConfig(filename='yoctobox.log', filemode='w', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info('YoctoBOX - v2.1 ')
-logging.info('Patrick Pinard - oct. 2020')
 logging.info('Délai entre deux mesures (mn): %s', int(delay/60))
 logging.info('Adresse IP :  %s', YOCTO_IP)
 
