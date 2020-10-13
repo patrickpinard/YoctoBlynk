@@ -1,6 +1,4 @@
-# Auteur    : Patrick Pinard
-# Date      : 12.10.2020
-# Objet     : gestion de senseur Yoctopuce pour température humidité et pression ainsi que relais et affichage
+# Auteur    : Patrick 
 # Version   : 2.1 (amélioration de Object YoctoBox: Tmin, Tmax)
 
 # -*- coding: utf-8 -*-
