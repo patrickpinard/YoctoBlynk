@@ -1,0 +1,2528 @@
+2020-10-12 16:34:03,157 - INFO - YoctoBOX - v2.1 
+2020-10-12 16:34:03,157 - INFO - Patrick Pinard - oct. 2020
+2020-10-12 16:34:03,158 - INFO - Délai entre deux mesures (mn): 10
+2020-10-12 16:34:03,158 - INFO - Adresse IP :  192.168.1.160
+2020-10-12 16:34:03,159 - INFO - Construction de l'objet YoctoBox Atelier 
+2020-10-12 16:34:03,159 - INFO - Connexion au YoctoBox wifi HUB...
+2020-10-12 16:34:03,467 - INFO - Création du senseur TPH
+2020-10-12 16:34:03,468 - INFO - Senseur TPH créé avec succès
+2020-10-12 16:34:03,468 - INFO - Connexion au YoctoBox wifi HUB...
+2020-10-12 16:34:03,564 - INFO - Module Relais MXPWRRLY-EAA6E créé avec succès sur YoctoBox 'Atelier'
+2020-10-12 16:34:03,566 - INFO -    Relai 1 configuré à OFF
+2020-10-12 16:34:03,566 - INFO -    Relai 2 configuré à OFF
+2020-10-12 16:34:03,566 - INFO -    Relai 3 configuré à OFF
+2020-10-12 16:34:03,566 - INFO -    Relai 4 configuré à OFF
+2020-10-12 16:34:03,566 - INFO - Connexion au YoctoBox wifi HUB...
+2020-10-12 16:34:03,706 - INFO - Création du module Display sur YoctoBox 'Atelier' 
+2020-10-12 16:34:03,707 - INFO - Target Display : YD128X64-E4EB0
+2020-10-12 16:34:17,732 - INFO - Connexion au module Relais
+2020-10-12 16:34:17,828 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:17,895 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:17,896 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:17,896 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:17,910 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,007 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,047 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,047 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,048 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,062 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,156 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,196 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,196 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,196 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,210 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,302 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,344 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,344 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,345 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,359 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,454 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,496 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,496 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,497 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,511 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,602 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,643 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,643 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,644 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,658 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,749 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,791 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,791 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,792 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,806 - INFO - Connexion au module Relais
+2020-10-12 16:34:18,897 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:18,936 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:18,936 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:18,937 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:18,951 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,042 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,080 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,081 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,081 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,095 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,192 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,232 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,233 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,233 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,248 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,340 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,379 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,379 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,380 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,394 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,492 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,532 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,532 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,533 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,547 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,638 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,680 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,680 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,680 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,694 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,786 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,826 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,826 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,826 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,840 - INFO - Connexion au module Relais
+2020-10-12 16:34:19,934 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:19,973 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:19,974 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:19,974 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:19,990 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,082 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,122 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,122 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,123 - INFO -   Etat (ON/OFF)   : ON
+2020-10-12 16:34:20,123 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,229 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,269 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,270 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,270 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:20,271 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,374 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,415 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,415 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,416 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:20,417 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,525 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,563 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,563 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,564 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:20,564 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,666 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,705 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,706 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,706 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:20,707 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,807 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,851 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,851 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,852 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:20,853 - INFO - Connexion au module Relais
+2020-10-12 16:34:20,953 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:20,993 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:20,994 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:20,994 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:20,995 - INFO - Connexion au module Relais
+2020-10-12 16:34:21,096 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:21,139 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:21,139 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:21,140 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:21,141 - INFO - Connexion au module Relais
+2020-10-12 16:34:21,245 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:21,290 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:21,290 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:21,291 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:21,291 - INFO - Connexion au module Relais
+2020-10-12 16:34:21,397 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:21,441 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:21,441 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:21,442 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:21,442 - INFO - Connexion au module Relais
+2020-10-12 16:34:21,549 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:21,591 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:21,591 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:21,592 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:21,592 - INFO - Connexion au module Relais
+2020-10-12 16:34:21,695 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:21,742 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:21,742 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:21,742 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:21,743 - INFO - Connexion au module Relais
+2020-10-12 16:34:21,890 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:21,951 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:21,951 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:21,952 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:21,968 - INFO - Connexion au module Relais
+2020-10-12 16:34:22,062 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:22,106 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:22,106 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:22,106 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:22,381 - INFO - Connexion au module Relais
+2020-10-12 16:34:22,550 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:22,591 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:22,591 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:22,592 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:22,606 - INFO - Connexion au module Relais
+2020-10-12 16:34:22,698 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:22,737 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:22,738 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:22,740 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:22,754 - INFO - Connexion au module Relais
+2020-10-12 16:34:22,846 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:22,885 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:22,885 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:22,886 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:22,900 - INFO - Connexion au module Relais
+2020-10-12 16:34:22,994 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,034 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,034 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,035 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,050 - INFO - Connexion au module Relais
+2020-10-12 16:34:23,143 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,183 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,183 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,183 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,198 - INFO - Connexion au module Relais
+2020-10-12 16:34:23,289 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,333 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,334 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,334 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,350 - INFO - Connexion au module Relais
+2020-10-12 16:34:23,441 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,480 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,480 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,480 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,495 - INFO - Connexion au module Relais
+2020-10-12 16:34:23,589 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,630 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,630 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,631 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,645 - INFO - Connexion au module Relais
+2020-10-12 16:34:23,737 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,777 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,778 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,778 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,792 - INFO - Connexion au module Relais
+2020-10-12 16:34:23,884 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:23,923 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:23,924 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:23,924 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:23,938 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,030 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,070 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,070 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,071 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,085 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,179 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,218 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,219 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,219 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,233 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,325 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,363 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,363 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,364 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,378 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,471 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,511 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,511 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,512 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,526 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,622 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,662 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,663 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,663 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,677 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,769 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,810 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,810 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,810 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,825 - INFO - Connexion au module Relais
+2020-10-12 16:34:24,922 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:24,962 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:24,962 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:24,963 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:24,977 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,068 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:25,110 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:25,111 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:25,111 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:25,126 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,217 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:25,263 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:25,264 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:25,264 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:25,278 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,370 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:25,409 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:25,409 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:25,409 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:25,423 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,519 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:25,564 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:25,565 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:25,565 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:25,579 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,670 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:25,710 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:25,710 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:25,710 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:25,725 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,816 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:25,854 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:25,855 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:25,855 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:25,869 - INFO - Connexion au module Relais
+2020-10-12 16:34:25,963 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,005 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,005 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,005 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,019 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,111 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,152 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,153 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,153 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,168 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,260 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,300 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,300 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,300 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,315 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,406 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,446 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,447 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,447 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,461 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,553 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,595 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,596 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,596 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,610 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,701 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,740 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,740 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,740 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,754 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,850 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:26,892 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:26,893 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:26,893 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:26,907 - INFO - Connexion au module Relais
+2020-10-12 16:34:26,998 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,040 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,040 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,041 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,055 - INFO - Connexion au module Relais
+2020-10-12 16:34:27,147 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,191 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,191 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,191 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,206 - INFO - Connexion au module Relais
+2020-10-12 16:34:27,297 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,338 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,339 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,339 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,353 - INFO - Connexion au module Relais
+2020-10-12 16:34:27,445 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,486 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,487 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,487 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,501 - INFO - Connexion au module Relais
+2020-10-12 16:34:27,601 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,641 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,642 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,642 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,656 - INFO - Connexion au module Relais
+2020-10-12 16:34:27,748 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,787 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,788 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,788 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,802 - INFO - Connexion au module Relais
+2020-10-12 16:34:27,900 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:27,946 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:27,947 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:27,947 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:27,961 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,052 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,090 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,091 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,091 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,105 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,202 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,244 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,244 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,244 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,259 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,350 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,392 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,392 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,392 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,407 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,499 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,542 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,543 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,543 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,558 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,649 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,689 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,689 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,689 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,704 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,796 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,836 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,836 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,836 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,851 - INFO - Connexion au module Relais
+2020-10-12 16:34:28,943 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:28,982 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:28,982 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:28,982 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:28,997 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,088 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:29,127 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:29,128 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:29,128 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:29,142 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,241 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:29,280 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:29,280 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:29,281 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:29,295 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,387 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:29,426 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:29,426 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:29,427 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:29,441 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,537 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:29,582 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:29,582 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:29,582 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:29,597 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,689 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:29,728 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:29,729 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:29,729 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:29,743 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,840 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:29,884 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:29,885 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:29,885 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:29,899 - INFO - Connexion au module Relais
+2020-10-12 16:34:29,993 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:30,032 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:30,033 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:30,033 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:30,052 - INFO - Connexion au module Relais
+2020-10-12 16:34:30,151 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:30,196 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:30,196 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:30,196 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:30,576 - INFO - Connexion au module Relais
+2020-10-12 16:34:30,676 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:30,716 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:30,716 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:30,716 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:30,730 - INFO - Connexion au module Relais
+2020-10-12 16:34:30,822 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:30,863 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:30,863 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:30,863 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:30,877 - INFO - Connexion au module Relais
+2020-10-12 16:34:30,969 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,009 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,009 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,010 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,024 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,116 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,154 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,154 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,154 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,168 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,260 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,299 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,299 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,300 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,314 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,405 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,445 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,445 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,445 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,460 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,551 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,591 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,591 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,591 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,606 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,698 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,739 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,739 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,739 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,755 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,848 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:31,889 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:31,890 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:31,890 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:31,904 - INFO - Connexion au module Relais
+2020-10-12 16:34:31,995 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,036 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,037 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,037 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,052 - INFO - Connexion au module Relais
+2020-10-12 16:34:32,143 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,181 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,181 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,182 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,196 - INFO - Connexion au module Relais
+2020-10-12 16:34:32,287 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,328 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,329 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,329 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,343 - INFO - Connexion au module Relais
+2020-10-12 16:34:32,437 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,479 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,480 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,480 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,494 - INFO - Connexion au module Relais
+2020-10-12 16:34:32,587 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,627 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,627 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,628 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,642 - INFO - Connexion au module Relais
+2020-10-12 16:34:32,733 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,773 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,773 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,773 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,788 - INFO - Connexion au module Relais
+2020-10-12 16:34:32,882 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:32,922 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:32,922 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:32,922 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:32,937 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,045 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:33,089 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:33,090 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:33,090 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:33,104 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,200 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:33,252 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:33,252 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:33,252 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:33,266 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,358 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:33,395 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:33,396 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:33,396 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:33,410 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,501 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:33,544 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:33,544 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:33,545 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:33,560 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,658 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:33,702 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:33,703 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:33,703 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:33,717 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,812 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:33,865 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:33,866 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:33,866 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:33,881 - INFO - Connexion au module Relais
+2020-10-12 16:34:33,974 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:34,013 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:34,013 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:34,013 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:34,028 - INFO - Connexion au module Relais
+2020-10-12 16:34:34,119 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:34,161 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:34,162 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:34,162 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:34,176 - INFO - Connexion au module Relais
+2020-10-12 16:34:34,268 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:34,307 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:34,307 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:34,308 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:34,322 - INFO - Connexion au module Relais
+2020-10-12 16:34:34,413 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:34,452 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:34,452 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:34,453 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:34,467 - INFO - Connexion au module Relais
+2020-10-12 16:34:34,560 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:34,602 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:34,602 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:34,602 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:34,617 - INFO - Connexion au module Relais
+2020-10-12 16:34:34,708 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:34,748 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:34,748 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:34,748 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:34,763 - INFO - Connexion au module Relais
+2020-10-12 16:34:35,529 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:35,573 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:35,574 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:35,574 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:35,588 - INFO - Connexion au module Relais
+2020-10-12 16:34:35,681 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:35,726 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:35,726 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:35,726 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:35,740 - INFO - Connexion au module Relais
+2020-10-12 16:34:35,832 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:35,876 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:35,877 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:35,877 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:35,892 - INFO - Connexion au module Relais
+2020-10-12 16:34:35,988 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,031 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,031 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,031 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,045 - INFO - Connexion au module Relais
+2020-10-12 16:34:36,137 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,177 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,177 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,178 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,193 - INFO - Connexion au module Relais
+2020-10-12 16:34:36,297 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,344 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,344 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,344 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,359 - INFO - Connexion au module Relais
+2020-10-12 16:34:36,452 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,490 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,491 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,491 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,505 - INFO - Connexion au module Relais
+2020-10-12 16:34:36,603 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,645 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,645 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,645 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,660 - INFO - Connexion au module Relais
+2020-10-12 16:34:36,753 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,796 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,797 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,797 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,811 - INFO - Connexion au module Relais
+2020-10-12 16:34:36,906 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:36,948 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:36,948 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:36,949 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:36,963 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,056 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,100 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,101 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,101 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:37,116 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,212 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,251 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,251 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,252 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:37,266 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,360 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,399 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,400 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,400 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:37,414 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,506 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,546 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,546 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,546 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:37,561 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,653 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,694 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,694 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,694 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:37,708 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,801 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,845 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,845 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,845 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:37,860 - INFO - Connexion au module Relais
+2020-10-12 16:34:37,955 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:37,994 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:37,994 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:37,995 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:38,009 - INFO - Connexion au module Relais
+2020-10-12 16:34:38,100 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:38,145 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:38,145 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:38,145 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:38,440 - INFO - Connexion au module Relais
+2020-10-12 16:34:38,537 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:38,576 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:38,577 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:38,577 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:38,592 - INFO - Connexion au module Relais
+2020-10-12 16:34:38,690 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:38,733 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:38,733 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:38,734 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:38,748 - INFO - Connexion au module Relais
+2020-10-12 16:34:38,842 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:38,885 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:38,885 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:38,885 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:38,900 - INFO - Connexion au module Relais
+2020-10-12 16:34:38,991 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,030 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,030 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,030 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,045 - INFO - Connexion au module Relais
+2020-10-12 16:34:39,138 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,180 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,181 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,181 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,195 - INFO - Connexion au module Relais
+2020-10-12 16:34:39,286 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,329 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,330 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,330 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,345 - INFO - Connexion au module Relais
+2020-10-12 16:34:39,436 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,477 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,478 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,478 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,492 - INFO - Connexion au module Relais
+2020-10-12 16:34:39,586 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,626 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,626 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,627 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,641 - INFO - Connexion au module Relais
+2020-10-12 16:34:39,734 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,774 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,775 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,775 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,790 - INFO - Connexion au module Relais
+2020-10-12 16:34:39,895 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:39,934 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:39,935 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:39,935 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:39,951 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,042 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,080 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,081 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,081 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,095 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,188 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,228 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,229 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,229 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,243 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,335 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,374 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,375 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,375 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,389 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,481 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,523 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,524 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,524 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,538 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,630 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,671 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,671 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,672 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,686 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,779 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,819 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,819 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,819 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,834 - INFO - Connexion au module Relais
+2020-10-12 16:34:40,925 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:40,963 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:40,963 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:40,964 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:40,978 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,069 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:41,108 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:41,109 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:41,109 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:41,123 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,222 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:41,262 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:41,262 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:41,262 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:41,277 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,371 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:41,409 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:41,409 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:41,410 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:41,425 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,518 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:41,562 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:41,562 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:41,563 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:41,579 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,673 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:41,713 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:41,714 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:41,714 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:41,729 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,825 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:41,867 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:41,868 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:41,868 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:41,882 - INFO - Connexion au module Relais
+2020-10-12 16:34:41,977 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,018 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,019 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,019 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,033 - INFO - Connexion au module Relais
+2020-10-12 16:34:42,127 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,166 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,166 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,167 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,181 - INFO - Connexion au module Relais
+2020-10-12 16:34:42,272 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,310 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,310 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,311 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,325 - INFO - Connexion au module Relais
+2020-10-12 16:34:42,418 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,458 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,459 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,459 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,487 - INFO - Connexion au module Relais
+2020-10-12 16:34:42,579 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,619 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,619 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,619 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,633 - INFO - Connexion au module Relais
+2020-10-12 16:34:42,726 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,767 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,767 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,768 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,782 - INFO - Connexion au module Relais
+2020-10-12 16:34:42,873 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:42,913 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:42,914 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:42,914 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:42,929 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,022 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,070 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,071 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,071 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,085 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,177 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,215 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,216 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,216 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,231 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,324 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,367 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,367 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,368 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,382 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,473 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,513 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,514 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,514 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,528 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,620 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,658 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,658 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,658 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,673 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,771 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,817 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,817 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,818 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,832 - INFO - Connexion au module Relais
+2020-10-12 16:34:43,923 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:43,963 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:43,963 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:43,964 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:43,978 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,074 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:44,119 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:44,120 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:44,120 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:44,134 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,225 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:44,265 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:44,266 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:44,266 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:44,281 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,373 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:44,413 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:44,413 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:44,413 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:44,428 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,519 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:44,558 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:44,559 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:44,559 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:44,573 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,664 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:44,709 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:44,710 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:44,710 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:44,724 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,818 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:44,858 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:44,859 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:44,859 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:44,874 - INFO - Connexion au module Relais
+2020-10-12 16:34:44,965 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,006 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,006 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,007 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:45,021 - INFO - Connexion au module Relais
+2020-10-12 16:34:45,114 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,153 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,153 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,154 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:45,169 - INFO - Connexion au module Relais
+2020-10-12 16:34:45,262 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,302 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,302 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,303 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:45,318 - INFO - Connexion au module Relais
+2020-10-12 16:34:45,422 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,463 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,463 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,464 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:45,479 - INFO - Connexion au module Relais
+2020-10-12 16:34:45,573 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,615 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,615 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,615 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:45,630 - INFO - Connexion au module Relais
+2020-10-12 16:34:45,727 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,769 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,770 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,770 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:45,784 - INFO - Connexion au module Relais
+2020-10-12 16:34:45,877 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:45,916 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:45,917 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:45,917 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:46,251 - INFO - Connexion au module Relais
+2020-10-12 16:34:46,343 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:46,385 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:46,386 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:46,386 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:46,400 - INFO - Connexion au module Relais
+2020-10-12 16:34:46,491 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:46,529 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:46,530 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:46,530 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:46,545 - INFO - Connexion au module Relais
+2020-10-12 16:34:46,640 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:46,685 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:46,685 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:46,685 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:46,700 - INFO - Connexion au module Relais
+2020-10-12 16:34:46,793 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:46,835 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:46,835 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:46,835 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:46,849 - INFO - Connexion au module Relais
+2020-10-12 16:34:46,945 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:46,991 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:46,992 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:46,992 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,007 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,099 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:47,138 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:47,139 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:47,139 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,153 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,247 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:47,289 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:47,289 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:47,290 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,305 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,396 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:47,434 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:47,434 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:47,434 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,448 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,540 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:47,578 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:47,579 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:47,579 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,593 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,686 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:47,726 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:47,726 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:47,727 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,742 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,835 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:47,873 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:47,874 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:47,874 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:47,889 - INFO - Connexion au module Relais
+2020-10-12 16:34:47,983 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,026 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,026 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,027 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,041 - INFO - Connexion au module Relais
+2020-10-12 16:34:48,135 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,174 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,174 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,175 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,189 - INFO - Connexion au module Relais
+2020-10-12 16:34:48,287 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,330 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,330 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,330 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,347 - INFO - Connexion au module Relais
+2020-10-12 16:34:48,438 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,477 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,477 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,478 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,492 - INFO - Connexion au module Relais
+2020-10-12 16:34:48,583 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,621 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,622 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,622 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,637 - INFO - Connexion au module Relais
+2020-10-12 16:34:48,730 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,770 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,770 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,770 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,785 - INFO - Connexion au module Relais
+2020-10-12 16:34:48,877 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:48,916 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:48,916 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:48,917 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:48,931 - INFO - Connexion au module Relais
+2020-10-12 16:34:49,805 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:49,844 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:49,844 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:49,845 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:49,859 - INFO - Connexion au module Relais
+2020-10-12 16:34:49,950 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:49,991 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:49,991 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:49,992 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,006 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,097 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:50,140 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:50,140 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:50,141 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,155 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,247 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:50,286 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:50,287 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:50,287 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,301 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,393 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:50,431 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:50,431 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:50,431 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,445 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,541 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:50,582 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:50,582 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:50,583 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,597 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,689 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:50,728 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:50,729 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:50,729 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,744 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,846 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:50,887 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:50,887 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:50,887 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:50,902 - INFO - Connexion au module Relais
+2020-10-12 16:34:50,994 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,033 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,033 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,033 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,048 - INFO - Connexion au module Relais
+2020-10-12 16:34:51,142 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,184 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,184 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,185 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,199 - INFO - Connexion au module Relais
+2020-10-12 16:34:51,290 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,331 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,331 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,332 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,346 - INFO - Connexion au module Relais
+2020-10-12 16:34:51,437 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,481 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,481 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,481 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,496 - INFO - Connexion au module Relais
+2020-10-12 16:34:51,587 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,626 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,627 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,627 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,641 - INFO - Connexion au module Relais
+2020-10-12 16:34:51,735 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,773 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,773 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,774 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,788 - INFO - Connexion au module Relais
+2020-10-12 16:34:51,881 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:51,921 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:51,921 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:51,922 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:51,936 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,030 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,072 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,073 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,073 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,088 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,182 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,227 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,227 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,228 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,242 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,344 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,386 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,386 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,386 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,401 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,492 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,534 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,534 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,534 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,549 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,641 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,680 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,681 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,681 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,696 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,792 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,831 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,831 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,832 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,846 - INFO - Connexion au module Relais
+2020-10-12 16:34:52,939 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:52,978 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:52,979 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:52,979 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:52,993 - INFO - Connexion au module Relais
+2020-10-12 16:34:53,089 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:53,130 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:53,131 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:53,131 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:53,146 - INFO - Connexion au module Relais
+2020-10-12 16:34:53,238 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:53,278 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:53,278 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:53,278 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:53,292 - INFO - Connexion au module Relais
+2020-10-12 16:34:53,386 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:53,427 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:53,428 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:53,428 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:53,442 - INFO - Connexion au module Relais
+2020-10-12 16:34:53,534 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:53,578 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:53,579 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:53,579 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:53,831 - INFO - Connexion au module Relais
+2020-10-12 16:34:53,930 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:53,974 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:53,974 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:53,974 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:53,989 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,083 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:54,133 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:54,133 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:54,133 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:54,148 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,242 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:54,282 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:54,282 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:54,283 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:54,298 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,389 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:54,427 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:54,427 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:54,428 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:54,442 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,537 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:54,578 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:54,579 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:54,579 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:54,594 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,685 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:54,723 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:54,723 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:54,724 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:54,738 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,830 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:54,873 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:54,873 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:54,874 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:54,888 - INFO - Connexion au module Relais
+2020-10-12 16:34:54,980 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,020 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,020 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,021 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:55,034 - INFO - Connexion au module Relais
+2020-10-12 16:34:55,129 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,244 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,244 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,244 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:55,259 - INFO - Connexion au module Relais
+2020-10-12 16:34:55,352 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,390 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,390 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,391 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:55,406 - INFO - Connexion au module Relais
+2020-10-12 16:34:55,497 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,537 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,537 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,538 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:55,553 - INFO - Connexion au module Relais
+2020-10-12 16:34:55,650 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,691 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,691 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,691 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:55,706 - INFO - Connexion au module Relais
+2020-10-12 16:34:55,797 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,835 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,835 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,835 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:55,850 - INFO - Connexion au module Relais
+2020-10-12 16:34:55,947 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:55,989 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:55,989 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:55,989 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,004 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,095 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:56,135 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:56,135 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:56,136 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,151 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,242 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:56,282 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:56,282 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:56,282 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,296 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,390 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:56,430 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:56,430 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:56,430 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,445 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,536 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:56,576 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:56,576 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:56,577 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,591 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,685 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:56,723 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:56,724 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:56,724 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,738 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,830 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:56,870 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:56,870 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:56,870 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:56,885 - INFO - Connexion au module Relais
+2020-10-12 16:34:56,977 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,019 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,019 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,019 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,034 - INFO - Connexion au module Relais
+2020-10-12 16:34:57,126 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,165 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,166 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,166 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,188 - INFO - Connexion au module Relais
+2020-10-12 16:34:57,289 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,334 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,335 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,335 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,349 - INFO - Connexion au module Relais
+2020-10-12 16:34:57,441 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,481 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,482 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,482 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,497 - INFO - Connexion au module Relais
+2020-10-12 16:34:57,601 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,645 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,645 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,645 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,662 - INFO - Connexion au module Relais
+2020-10-12 16:34:57,754 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,793 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,794 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,794 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,808 - INFO - Connexion au module Relais
+2020-10-12 16:34:57,912 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:57,953 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:57,953 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:57,954 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:57,967 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,060 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,101 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,102 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,102 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:58,116 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,209 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,249 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,250 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,250 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:58,264 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,356 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,394 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,395 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,395 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:58,409 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,502 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,544 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,545 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,545 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:58,559 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,651 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,690 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,691 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,691 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:58,705 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,796 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,839 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,839 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,840 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:58,854 - INFO - Connexion au module Relais
+2020-10-12 16:34:58,950 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:58,997 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:58,997 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:58,998 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,012 - INFO - Connexion au module Relais
+2020-10-12 16:34:59,106 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:59,146 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:59,146 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:59,147 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,161 - INFO - Connexion au module Relais
+2020-10-12 16:34:59,256 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:59,296 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:59,296 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:59,297 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,311 - INFO - Connexion au module Relais
+2020-10-12 16:34:59,403 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:59,443 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:59,444 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:59,444 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,459 - INFO - Connexion au module Relais
+2020-10-12 16:34:59,552 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:59,592 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:59,592 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:59,592 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,606 - INFO - Connexion au module Relais
+2020-10-12 16:34:59,700 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:59,739 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:59,740 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:59,740 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,754 - INFO - Connexion au module Relais
+2020-10-12 16:34:59,848 - INFO - Changement d'état d'un relai 
+2020-10-12 16:34:59,893 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:34:59,893 - INFO -   Numéro du relai : 2
+2020-10-12 16:34:59,894 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:34:59,908 - INFO - Connexion au module Relais
+2020-10-12 16:35:00,001 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:00,042 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:00,043 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:00,043 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:00,059 - INFO - Connexion au module Relais
+2020-10-12 16:35:00,155 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:00,196 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:00,196 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:00,197 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:00,505 - INFO - Connexion au module Relais
+2020-10-12 16:35:00,602 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:00,642 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:00,643 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:00,643 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:00,657 - INFO - Connexion au module Relais
+2020-10-12 16:35:00,749 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:00,787 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:00,787 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:00,787 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:00,802 - INFO - Connexion au module Relais
+2020-10-12 16:35:00,893 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:00,932 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:00,933 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:00,933 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:00,947 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,040 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,079 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,080 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,080 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,094 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,189 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,228 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,229 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,229 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,244 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,335 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,375 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,375 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,376 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,390 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,484 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,526 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,526 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,527 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,542 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,635 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,673 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,673 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,674 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,688 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,787 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,826 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,826 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,826 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,841 - INFO - Connexion au module Relais
+2020-10-12 16:35:01,933 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:01,972 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:01,972 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:01,972 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:01,987 - INFO - Connexion au module Relais
+2020-10-12 16:35:02,078 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:02,116 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:02,117 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:02,117 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:02,132 - INFO - Connexion au module Relais
+2020-10-12 16:35:02,224 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:02,266 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:02,267 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:02,267 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:02,283 - INFO - Connexion au module Relais
+2020-10-12 16:35:02,374 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:02,412 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:02,412 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:02,413 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:02,427 - INFO - Connexion au module Relais
+2020-10-12 16:35:02,523 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:02,565 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:02,566 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:02,566 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:02,973 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,065 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:03,106 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:03,106 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:03,106 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:03,120 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,213 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:03,253 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:03,254 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:03,256 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:03,271 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,362 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:03,401 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:03,401 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:03,402 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:03,416 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,515 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:03,555 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:03,555 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:03,555 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:03,570 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,662 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:03,702 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:03,703 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:03,703 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:03,717 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,811 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:03,849 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:03,850 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:03,850 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:03,864 - INFO - Connexion au module Relais
+2020-10-12 16:35:03,960 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,002 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,002 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,002 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,017 - INFO - Connexion au module Relais
+2020-10-12 16:35:04,108 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,148 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,148 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,148 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,163 - INFO - Connexion au module Relais
+2020-10-12 16:35:04,261 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,306 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,307 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,307 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,322 - INFO - Connexion au module Relais
+2020-10-12 16:35:04,414 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,452 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,452 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,453 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,467 - INFO - Connexion au module Relais
+2020-10-12 16:35:04,558 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,599 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,600 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,600 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,615 - INFO - Connexion au module Relais
+2020-10-12 16:35:04,709 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,753 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,753 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,753 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,768 - INFO - Connexion au module Relais
+2020-10-12 16:35:04,867 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:04,913 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:04,913 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:04,913 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:04,928 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,021 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,061 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,061 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,061 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,077 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,172 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,216 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,216 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,216 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,231 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,322 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,362 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,363 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,363 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,377 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,470 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,512 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,513 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,513 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,528 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,625 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,666 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,667 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,667 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,683 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,774 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,815 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,815 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,815 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,830 - INFO - Connexion au module Relais
+2020-10-12 16:35:05,922 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:05,963 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:05,963 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:05,963 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:05,977 - INFO - Connexion au module Relais
+2020-10-12 16:35:06,069 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:06,108 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:06,109 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:06,109 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:06,123 - INFO - Connexion au module Relais
+2020-10-12 16:35:06,214 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:06,255 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:06,256 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:06,256 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:06,270 - INFO - Connexion au module Relais
+2020-10-12 16:35:06,362 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:06,400 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:06,401 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:06,401 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:06,416 - INFO - Connexion au module Relais
+2020-10-12 16:35:06,514 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:06,555 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:06,555 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:06,555 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:06,569 - INFO - Connexion au module Relais
+2020-10-12 16:35:06,661 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:06,702 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:06,702 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:06,702 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:07,032 - INFO - Connexion au module Relais
+2020-10-12 16:35:07,131 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:07,172 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:07,173 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:07,173 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:07,190 - INFO - Connexion au module Relais
+2020-10-12 16:35:07,281 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:07,322 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:07,323 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:07,323 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:07,337 - INFO - Connexion au module Relais
+2020-10-12 16:35:07,436 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:07,476 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:07,476 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:07,476 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:07,705 - INFO - Connexion au module Relais
+2020-10-12 16:35:07,798 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:07,841 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:07,841 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:07,841 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:07,856 - INFO - Connexion au module Relais
+2020-10-12 16:35:07,947 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:07,990 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:07,990 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:07,991 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,005 - INFO - Connexion au module Relais
+2020-10-12 16:35:08,096 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:08,138 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:08,139 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:08,139 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,154 - INFO - Connexion au module Relais
+2020-10-12 16:35:08,246 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:08,294 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:08,294 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:08,295 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,309 - INFO - Connexion au module Relais
+2020-10-12 16:35:08,400 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:08,444 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:08,445 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:08,445 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,463 - INFO - Connexion au module Relais
+2020-10-12 16:35:08,554 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:08,598 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:08,599 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:08,599 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,620 - INFO - Connexion au module Relais
+2020-10-12 16:35:08,715 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:08,752 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:08,752 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:08,753 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,770 - INFO - Connexion au module Relais
+2020-10-12 16:35:08,861 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:08,903 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:08,904 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:08,904 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:08,920 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,013 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,053 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,054 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,054 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,072 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,186 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,228 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,228 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,229 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,244 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,337 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,387 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,387 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,388 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,402 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,494 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,535 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,535 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,535 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,552 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,643 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,682 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,683 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,683 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,697 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,792 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,832 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,833 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,833 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,849 - INFO - Connexion au module Relais
+2020-10-12 16:35:09,940 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:09,978 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:09,978 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:09,979 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:09,993 - INFO - Connexion au module Relais
+2020-10-12 16:35:10,105 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:10,149 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:10,149 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:10,149 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:10,164 - INFO - Connexion au module Relais
+2020-10-12 16:35:10,256 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:10,299 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:10,299 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:10,300 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:10,314 - INFO - Connexion au module Relais
+2020-10-12 16:35:10,407 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:10,448 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:10,449 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:10,449 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:10,464 - INFO - Connexion au module Relais
+2020-10-12 16:35:10,559 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:10,598 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:10,599 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:10,599 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:10,614 - INFO - Connexion au module Relais
+2020-10-12 16:35:10,714 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:10,753 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:10,754 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:10,754 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:10,768 - INFO - Connexion au module Relais
+2020-10-12 16:35:10,862 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:10,902 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:10,902 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:10,903 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:10,917 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,010 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,057 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,058 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,058 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,073 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,165 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,205 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,206 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,206 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,220 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,334 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,376 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,376 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,376 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,391 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,482 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,523 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,523 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,523 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,542 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,633 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,675 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,676 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,676 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,690 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,782 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,820 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,820 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,821 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,836 - INFO - Connexion au module Relais
+2020-10-12 16:35:11,932 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:11,979 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:11,979 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:11,980 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:11,995 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,089 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:12,130 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:12,130 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:12,130 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:12,145 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,239 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:12,279 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:12,279 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:12,279 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:12,294 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,387 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:12,427 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:12,427 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:12,428 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:12,443 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,541 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:12,580 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:12,580 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:12,581 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:12,595 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,688 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:12,728 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:12,729 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:12,729 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:12,743 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,837 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:12,876 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:12,876 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:12,877 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:12,891 - INFO - Connexion au module Relais
+2020-10-12 16:35:12,983 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:13,021 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:13,022 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:13,022 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:13,036 - INFO - Connexion au module Relais
+2020-10-12 16:35:13,130 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:13,174 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:13,174 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:13,175 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:13,189 - INFO - Connexion au module Relais
+2020-10-12 16:35:13,283 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:13,324 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:13,324 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:13,325 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:13,339 - INFO - Connexion au module Relais
+2020-10-12 16:35:13,436 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:13,489 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:13,489 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:13,489 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:13,504 - INFO - Connexion au module Relais
+2020-10-12 16:35:13,595 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:13,638 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:13,638 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:13,639 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:13,756 - INFO - Connexion au module Relais
+2020-10-12 16:35:13,847 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:13,894 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:13,895 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:13,895 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:13,909 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,004 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,047 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,047 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,048 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,062 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,154 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,199 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,199 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,199 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,215 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,308 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,346 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,347 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,347 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,361 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,452 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,493 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,494 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,494 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,508 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,604 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,643 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,644 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,644 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,658 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,751 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,791 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,792 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,792 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,806 - INFO - Connexion au module Relais
+2020-10-12 16:35:14,900 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:14,942 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:14,943 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:14,943 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:14,958 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,049 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,089 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,090 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,090 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:15,104 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,201 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,244 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,245 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,245 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:15,259 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,351 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,389 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,390 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,390 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:15,404 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,495 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,535 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,535 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,535 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:15,549 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,643 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,686 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,686 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,687 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:15,701 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,792 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,840 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,841 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,841 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:15,855 - INFO - Connexion au module Relais
+2020-10-12 16:35:15,947 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:15,989 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:15,990 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:15,990 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,005 - INFO - Connexion au module Relais
+2020-10-12 16:35:16,138 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:16,181 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:16,181 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:16,182 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,196 - INFO - Connexion au module Relais
+2020-10-12 16:35:16,288 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:16,326 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:16,326 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:16,326 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,341 - INFO - Connexion au module Relais
+2020-10-12 16:35:16,433 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:16,475 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:16,475 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:16,476 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,491 - INFO - Connexion au module Relais
+2020-10-12 16:35:16,582 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:16,621 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:16,621 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:16,621 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,635 - INFO - Connexion au module Relais
+2020-10-12 16:35:16,730 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:16,770 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:16,771 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:16,771 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,786 - INFO - Connexion au module Relais
+2020-10-12 16:35:16,879 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:16,920 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:16,920 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:16,920 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:16,934 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,025 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,065 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,066 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,066 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:17,080 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,175 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,215 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,215 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,215 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:17,229 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,321 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,361 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,361 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,361 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:17,375 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,470 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,509 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,510 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,510 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:17,524 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,616 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,654 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,655 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,655 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:17,669 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,768 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,811 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,812 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,812 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:17,826 - INFO - Connexion au module Relais
+2020-10-12 16:35:17,919 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:17,958 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:17,958 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:17,958 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:18,133 - INFO - Connexion au module Relais
+2020-10-12 16:35:18,226 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:18,266 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:18,267 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:18,267 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:18,281 - INFO - Connexion au module Relais
+2020-10-12 16:35:18,376 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:18,419 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:18,419 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:18,419 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:18,433 - INFO - Connexion au module Relais
+2020-10-12 16:35:18,529 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:18,568 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:18,568 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:18,568 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:18,582 - INFO - Connexion au module Relais
+2020-10-12 16:35:18,675 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:18,716 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:18,716 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:18,717 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:18,731 - INFO - Connexion au module Relais
+2020-10-12 16:35:18,825 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:18,863 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:18,863 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:18,864 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:18,878 - INFO - Connexion au module Relais
+2020-10-12 16:35:18,972 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,011 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,011 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,011 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,025 - INFO - Connexion au module Relais
+2020-10-12 16:35:19,122 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,160 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,160 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,161 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,175 - INFO - Connexion au module Relais
+2020-10-12 16:35:19,266 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,306 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,306 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,306 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,321 - INFO - Connexion au module Relais
+2020-10-12 16:35:19,416 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,454 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,454 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,455 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,469 - INFO - Connexion au module Relais
+2020-10-12 16:35:19,562 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,604 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,604 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,605 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,619 - INFO - Connexion au module Relais
+2020-10-12 16:35:19,714 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,753 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,754 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,754 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,768 - INFO - Connexion au module Relais
+2020-10-12 16:35:19,860 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:19,899 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:19,899 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:19,899 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:19,913 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,006 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,047 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,048 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,048 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,064 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,157 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,199 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,199 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,200 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,214 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,305 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,343 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,343 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,343 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,358 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,453 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,500 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,500 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,500 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,515 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,606 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,650 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,651 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,651 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,665 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,758 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,802 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,803 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,803 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,818 - INFO - Connexion au module Relais
+2020-10-12 16:35:20,909 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:20,947 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:20,947 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:20,947 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:20,961 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,056 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,096 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,096 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,097 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,112 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,207 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,245 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,245 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,245 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,259 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,353 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,392 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,392 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,393 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,407 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,499 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,538 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,538 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,539 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,553 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,645 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,684 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,685 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,685 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,699 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,791 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,830 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,831 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,831 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,845 - INFO - Connexion au module Relais
+2020-10-12 16:35:21,937 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:21,984 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:21,984 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:21,985 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:21,999 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,091 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:22,135 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:22,136 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:22,136 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:22,150 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,242 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:22,281 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:22,282 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:22,282 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:22,296 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,389 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:22,427 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:22,428 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:22,428 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:22,442 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,535 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:22,575 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:22,576 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:22,576 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:22,591 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,693 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:22,737 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:22,738 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:22,738 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:22,752 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,843 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:22,882 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:22,883 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:22,883 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:22,897 - INFO - Connexion au module Relais
+2020-10-12 16:35:22,992 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,038 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,039 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,039 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,053 - INFO - Connexion au module Relais
+2020-10-12 16:35:23,146 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,188 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,188 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,188 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,203 - INFO - Connexion au module Relais
+2020-10-12 16:35:23,294 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,336 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,336 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,336 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,351 - INFO - Connexion au module Relais
+2020-10-12 16:35:23,442 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,484 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,484 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,485 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,500 - INFO - Connexion au module Relais
+2020-10-12 16:35:23,594 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,632 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,633 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,633 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,648 - INFO - Connexion au module Relais
+2020-10-12 16:35:23,742 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,784 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,785 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,785 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,799 - INFO - Connexion au module Relais
+2020-10-12 16:35:23,893 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:23,933 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:23,934 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:23,934 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:23,948 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,044 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,082 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,083 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,083 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:24,097 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,191 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,237 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,238 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,238 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:24,252 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,346 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,386 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,387 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,387 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:24,401 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,492 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,531 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,531 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,531 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:24,545 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,640 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,679 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,680 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,680 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:24,694 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,786 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,824 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,824 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,824 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:24,838 - INFO - Connexion au module Relais
+2020-10-12 16:35:24,948 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:24,989 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:24,990 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:24,990 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:25,004 - INFO - Connexion au module Relais
+2020-10-12 16:35:25,097 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:25,136 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:25,137 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:25,137 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:25,151 - INFO - Connexion au module Relais
+2020-10-12 16:35:25,244 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:25,283 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:25,283 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:25,283 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:25,298 - INFO - Connexion au module Relais
+2020-10-12 16:35:25,395 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:25,436 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:25,437 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:25,437 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:25,674 - INFO - Connexion au module Relais
+2020-10-12 16:35:25,766 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:25,807 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:25,807 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:25,807 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:25,821 - INFO - Connexion au module Relais
+2020-10-12 16:35:25,913 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:25,951 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:25,952 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:25,952 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:25,966 - INFO - Connexion au module Relais
+2020-10-12 16:35:26,062 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:26,103 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:26,103 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:26,104 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:26,118 - INFO - Connexion au module Relais
+2020-10-12 16:35:27,152 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:27,207 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:27,207 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:27,207 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:27,222 - INFO - Connexion au module Relais
+2020-10-12 16:35:27,314 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:27,353 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:27,354 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:27,354 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:27,369 - INFO - Connexion au module Relais
+2020-10-12 16:35:27,463 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:27,514 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:27,514 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:27,514 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:27,528 - INFO - Connexion au module Relais
+2020-10-12 16:35:27,620 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:27,658 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:27,658 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:27,659 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:27,672 - INFO - Connexion au module Relais
+2020-10-12 16:35:27,765 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:27,809 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:27,810 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:27,810 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:27,824 - INFO - Connexion au module Relais
+2020-10-12 16:35:27,918 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:27,957 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:27,958 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:27,958 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:27,972 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,066 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:28,106 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:28,106 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:28,107 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:28,121 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,214 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:28,260 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:28,261 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:28,261 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:28,276 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,368 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:28,407 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:28,407 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:28,408 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:28,422 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,517 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:28,561 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:28,562 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:28,562 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:28,576 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,670 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:28,709 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:28,710 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:28,710 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:28,724 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,816 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:28,854 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:28,854 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:28,854 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:28,869 - INFO - Connexion au module Relais
+2020-10-12 16:35:28,963 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,003 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,003 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,003 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,018 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,109 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,153 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,154 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,154 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,169 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,261 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,300 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,301 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,301 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,316 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,409 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,449 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,449 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,450 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,464 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,557 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,596 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,596 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,597 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,612 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,703 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,742 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,742 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,742 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,757 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,851 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:29,892 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:29,893 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:29,893 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:29,907 - INFO - Connexion au module Relais
+2020-10-12 16:35:29,998 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,039 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,039 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,040 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,054 - INFO - Connexion au module Relais
+2020-10-12 16:35:30,148 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,190 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,190 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,191 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,205 - INFO - Connexion au module Relais
+2020-10-12 16:35:30,297 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,338 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,338 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,339 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,354 - INFO - Connexion au module Relais
+2020-10-12 16:35:30,453 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,494 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,495 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,495 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,510 - INFO - Connexion au module Relais
+2020-10-12 16:35:30,602 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,642 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,643 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,643 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,659 - INFO - Connexion au module Relais
+2020-10-12 16:35:30,754 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,796 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,796 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,796 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,811 - INFO - Connexion au module Relais
+2020-10-12 16:35:30,903 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:30,942 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:30,942 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:30,942 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:30,956 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,048 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,095 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,095 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,095 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:31,109 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,203 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,242 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,242 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,243 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:31,257 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,348 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,389 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,390 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,390 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:31,404 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,501 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,540 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,541 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,541 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:31,555 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,647 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,686 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,687 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,687 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:31,702 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,798 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,844 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,844 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,845 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:31,860 - INFO - Connexion au module Relais
+2020-10-12 16:35:31,953 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:31,991 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:31,992 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:31,992 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,006 - INFO - Connexion au module Relais
+2020-10-12 16:35:32,104 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:32,145 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:32,146 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:32,146 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,160 - INFO - Connexion au module Relais
+2020-10-12 16:35:32,256 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:32,296 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:32,296 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:32,296 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,310 - INFO - Connexion au module Relais
+2020-10-12 16:35:32,411 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:32,456 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:32,456 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:32,456 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,470 - INFO - Connexion au module Relais
+2020-10-12 16:35:32,562 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:32,603 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:32,603 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:32,603 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,618 - INFO - Connexion au module Relais
+2020-10-12 16:35:32,719 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:32,760 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:32,760 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:32,760 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,775 - INFO - Connexion au module Relais
+2020-10-12 16:35:32,866 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:32,906 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:32,907 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:32,907 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:32,921 - INFO - Connexion au module Relais
+2020-10-12 16:35:33,016 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:33,058 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:33,059 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:33,059 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:33,073 - INFO - Connexion au module Relais
+2020-10-12 16:35:33,165 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:33,207 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:33,208 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:33,208 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:33,563 - INFO - Connexion au module Relais
+2020-10-12 16:35:33,662 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:33,701 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:33,702 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:33,702 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:33,717 - INFO - Connexion au module Relais
+2020-10-12 16:35:33,811 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:33,852 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:33,852 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:33,852 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:33,867 - INFO - Connexion au module Relais
+2020-10-12 16:35:33,969 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,006 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,007 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,007 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,022 - INFO - Connexion au module Relais
+2020-10-12 16:35:34,117 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,158 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,158 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,158 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,173 - INFO - Connexion au module Relais
+2020-10-12 16:35:34,267 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,310 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,310 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,310 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,325 - INFO - Connexion au module Relais
+2020-10-12 16:35:34,417 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,456 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,456 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,457 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,471 - INFO - Connexion au module Relais
+2020-10-12 16:35:34,563 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,611 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,611 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,611 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,626 - INFO - Connexion au module Relais
+2020-10-12 16:35:34,718 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,755 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,755 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,756 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,770 - INFO - Connexion au module Relais
+2020-10-12 16:35:34,864 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:34,902 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:34,903 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:34,903 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:34,918 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,010 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,050 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,050 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,050 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,065 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,163 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,206 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,206 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,206 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,221 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,312 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,352 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,352 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,353 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,366 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,458 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,499 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,499 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,499 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,514 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,606 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,649 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,649 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,650 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,664 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,756 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,797 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,797 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,797 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,812 - INFO - Connexion au module Relais
+2020-10-12 16:35:35,904 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:35,945 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:35,945 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:35,946 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:35,962 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,054 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:36,091 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:36,092 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:36,092 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:36,107 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,216 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:36,259 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:36,259 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:36,259 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:36,273 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,365 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:36,406 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:36,406 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:36,406 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:36,421 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,517 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:36,559 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:36,559 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:36,559 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:36,573 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,666 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:36,707 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:36,708 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:36,708 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:36,722 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,814 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:36,856 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:36,856 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:36,856 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:36,871 - INFO - Connexion au module Relais
+2020-10-12 16:35:36,962 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,004 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,004 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,005 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,020 - INFO - Connexion au module Relais
+2020-10-12 16:35:37,122 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,164 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,165 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,165 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,180 - INFO - Connexion au module Relais
+2020-10-12 16:35:37,274 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,312 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,312 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,312 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,327 - INFO - Connexion au module Relais
+2020-10-12 16:35:37,429 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,470 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,470 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,471 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,485 - INFO - Connexion au module Relais
+2020-10-12 16:35:37,576 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,615 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,615 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,615 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,629 - INFO - Connexion au module Relais
+2020-10-12 16:35:37,722 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,763 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,763 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,763 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,778 - INFO - Connexion au module Relais
+2020-10-12 16:35:37,872 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:37,913 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:37,913 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:37,914 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:37,928 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,020 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,058 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,059 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,059 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,073 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,169 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,209 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,210 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,210 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,224 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,316 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,356 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,357 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,357 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,371 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,465 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,504 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,504 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,505 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,519 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,610 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,649 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,650 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,650 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,665 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,760 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,801 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,801 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,802 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,817 - INFO - Connexion au module Relais
+2020-10-12 16:35:38,911 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:38,952 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:38,953 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:38,953 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:38,967 - INFO - Connexion au module Relais
+2020-10-12 16:35:39,063 - INFO - Changement d'état d'un relai 
+2020-10-12 16:35:39,105 - INFO -   Module relais   : MXPWRRLY-EAA6E
+2020-10-12 16:35:39,105 - INFO -   Numéro du relai : 2
+2020-10-12 16:35:39,106 - INFO -   Etat (ON/OFF)   : OFF
+2020-10-12 16:35:39,120 - INFO - Connexion au module Relais
