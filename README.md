@@ -1,4 +1,4 @@
-# YoctoBox
+# YoctoBox (V2.1)
 # Modules Yoctopuce pilotés par APP Blynk sur IOS au travers d'une gateway Raspberry Pi 4
 
 Ce projet consiste à créer une APP avec Blynk permettant de piloter à distance un boitier (YoctoBox) comprenant des relais, un affichage et une sonde de température, pression et humidité.
