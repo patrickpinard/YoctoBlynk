@@ -19,7 +19,7 @@ global YoctoBox
 PATH = "/home/pi/yoctoblynk"
 YOCTO_IP = '192.168.1.160'
 YOCTO_NAME = 'Atelier'
-BLYNK_AUTH = 'rcB91tMoGqFLKR7vZ1ePrDIqn0izH59W'
+BLYNK_AUTH = 'votre clé blynk'
 
 blynk = blynklib.Blynk(BLYNK_AUTH)
 
@@ -120,11 +120,7 @@ def write_virtual_pin_handler(pin, value):
     
     return    
 
-# Terminal
-@blynk.handle_event('write V0')
-def write_virtual_pin_handler(pin, value):
-    blynk.virtual_write(0,YoctoBox)
-    return    
+
 
 if __name__ == '__main__':
     YoctoBox = YoctoBox(YOCTO_NAME, YOCTO_IP)
